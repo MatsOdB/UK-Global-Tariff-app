@@ -23,3 +23,11 @@ We hebben een heel eenvoudig privacybeleid omdat we geen persoonlijke gegevens v
 ### Français
 
 Nous avons une politique de confidentialité très simple car nous ne collectons aucune donnée personnelle. Notre application est entièrement gratuite et ne collecte aucune donnée personnelle. Vous n'êtes jamais invité à vous connecter où que ce soit et l'application n'utilise pas de coockies, nous pouvons donc nous assurer qu'aucune donnée n'est collectée.
+
+## Contact us
+
+If you would like to contact us please send an e-mail to: ukgt-app@outlook.com
+
+Indien u ons wilt contacteren kan u een e-mail sturen naar: ukgt-app@outlook.com
+
+Quand vous voulez nous contacter, vous pouvez envoyer un courriel à: ukgt-app@outlook.com
