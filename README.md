@@ -8,5 +8,6 @@ This app is based on information published on the UK HMRC website. While we try 
 </p>
 <br/>
 ## Link to get relevant information
+<br/>
 <p>
 To get te latest relevant information you can crosscheck with: https://www.check-future-uk-trade-tariffs.service.gov.uk/tariff
