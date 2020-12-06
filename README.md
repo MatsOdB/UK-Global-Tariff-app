@@ -9,3 +9,7 @@ This app is based on information published on the UK HMRC website. While we try 
 ## Link to get relevant information
 
 To get te latest relevant information you can crosscheck with: https://www.check-future-uk-trade-tariffs.service.gov.uk/tariff
+
+## Privacy policy
+
+We have a very simple privacy policy because we do not collect any personal data at all. Our app is totally free to use and it does not collect any personal data. You are never asked to sign in anywhere and the app doesn't use coockies, that's how we can ensure that no data is being collected.
