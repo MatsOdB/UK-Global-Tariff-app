@@ -31,3 +31,12 @@ If you would like to contact us please send an e-mail to: ukgt-app@outlook.com
 Indien u ons wilt contacteren kan u een e-mail sturen naar: ukgt-app@outlook.com
 
 Quand vous voulez nous contacter, vous pouvez envoyer un courriel à: ukgt-app@outlook.com
+
+
+## Support us
+
+If you would like to support us, please consider donating to: https://www.buymeacoffee.com/matsodb
+
+Als je ons wil steunen, dan kan je overwegen om iets te doneren op: https://www.buymeacoffee.com/matsodb
+
+Si vous voulez nous supporter, vous pouvez donner quelque chose sur: https://www.buymeacoffee.com/matsodb
