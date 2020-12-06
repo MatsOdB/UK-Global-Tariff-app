@@ -12,4 +12,14 @@ To get te latest relevant information you can crosscheck with: https://www.check
 
 ## Privacy policy
 
+### English
+
 We have a very simple privacy policy because we do not collect any personal data at all. Our app is totally free to use and it does not collect any personal data. You are never asked to sign in anywhere and the app doesn't use coockies, that's how we can ensure that no data is being collected.
+
+### Nederlands
+
+We hebben een heel eenvoudig privacybeleid omdat we geen persoonlijke gegevens verzamelen. Onze applicatie is volledig gratis en verzamelt geen persoonlijke gegevens. Je wordt nergens gevraagd om ergens in te loggen en de app maakt geen gebruik van coockies, hierdoor kunnen we ervoor zorgen dat er geen gegevens worden verzameld.
+
+### Français
+
+Nous avons une politique de confidentialité très simple car nous ne collectons aucune donnée personnelle. Notre application est entièrement gratuite et ne collecte aucune donnée personnelle. Vous n'êtes jamais invité à vous connecter où que ce soit et l'application n'utilise pas de coockies, nous pouvons donc nous assurer qu'aucune donnée n'est collectée.
