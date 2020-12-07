@@ -40,3 +40,12 @@ If you would like to support us, please consider donating to: https://www.buymea
 Als je ons wil steunen, dan kan je overwegen om iets te doneren op: https://www.buymeacoffee.com/matsodb
 
 Si vous voulez nous supporter, vous pouvez donner quelque chose sur: https://www.buymeacoffee.com/matsodb
+
+
+## Planned changes
+
+* Adding a srollable view so it's not easier to veiw commodities with a large description
+
+* Het toevoegen van een mogelijkheid om the scrollen zodat het handiger wordt om producten met een lange beschrijving te zien
+
+* Ajouter une liste scrollable pour faciliter pour voir des commodities avec un description longue
