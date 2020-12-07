@@ -18,7 +18,7 @@ We have a very simple privacy policy because we do not collect any personal data
 
 ### Nederlands
 
-We hebben een heel eenvoudig privacybeleid omdat we geen persoonlijke gegevens verzamelen. Onze applicatie is volledig gratis en verzamelt geen persoonlijke gegevens. Je wordt nergens gevraagd om ergens in te loggen en de app maakt geen gebruik van coockies, hierdoor kunnen we ervoor zorgen dat er geen gegevens worden verzameld.
+We hebben een heel eenvoudig privacybeleid omdat we geen persoonlijke gegevens verzamelen. Onze applicatie is volledig gratis en verzamelt geen persoonlijke gegevens. Je wordt nergens gevraagd om in te loggen en de app maakt geen gebruik van coockies, hierdoor kunnen we ervoor zorgen dat er geen gegevens worden verzameld.
 
 ### Français
 
