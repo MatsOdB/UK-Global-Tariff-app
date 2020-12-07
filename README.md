@@ -56,5 +56,5 @@ Si vous voulez nous supporter, vous pouvez donner quelque chose sur: https://www
 
 ### French
 
-* Ajouter une liste scrollable pour faciliter de voir des commodities avec un description longue
+* Ajouter une liste scrollable pour faciliter de voir des produits avec un description longue
 * Mettre à jour la liste des produits de base afin d'afficher de nouvelles indormations dès qu'elle sera publiée par le site web de la Commision Britannique
