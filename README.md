@@ -35,11 +35,13 @@ Quand vous voulez nous contacter, vous pouvez envoyer un courriel à: ukgt-app@o
 
 ## Support us
 
-If you would like to support us, please consider donating to: <a href="https://www.buymeacoffee.com/matsodb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+If you would like to support us, please consider donating to: 
 
-Als je ons wil steunen, dan kan je overwegen om iets te doneren op: <a href="https://www.buymeacoffee.com/matsodb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+Als je ons wil steunen, dan kan je overwegen om iets te doneren op: 
 
-Si vous voulez nous supporter, vous pouvez donner quelque chose sur: <a href="https://www.buymeacoffee.com/matsodb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+Si vous voulez nous supporter, vous pouvez donner quelque chose sur:
+
+<a href="https://www.buymeacoffee.com/matsodb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 ## Planned changes
