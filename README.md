@@ -48,15 +48,12 @@ Si vous voulez nous supporter, vous pouvez donner quelque chose sur:
 
 ### English
 
-* Adding a srollable view so it's not easier to veiw commodities with a large description
 * Updating commodity list to display new info as soon as it gets released by UK HMRC website
 
 ### Nederlands
 
-* Het toevoegen van een mogelijkheid om the scrollen zodat het handiger wordt om commodities met een lange beschrijving te zien
 * Commodity lijst updaten om nieuwe info weer te geven zodra die gepubliceerd wordt door UK HMRC website
 
 ### French
 
-* Ajouter une liste scrollable pour faciliter de voir des produits avec un description longue
 * Mettre à jour la liste des produits de base afin d'afficher de nouvelles indormations dès qu'elle sera publiée par le site web de la Commision Britannique
